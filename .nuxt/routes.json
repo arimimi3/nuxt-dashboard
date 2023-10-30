@@ -1,0 +1,142 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "/home/arichan/a/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6a902315"
+  },
+  {
+    "name": "google___en",
+    "path": "/google",
+    "component": "/home/arichan/a/pages/google.vue",
+    "chunkName": "pages/google",
+    "_name": "_620b6106"
+  },
+  {
+    "name": "icons___en",
+    "path": "/icons",
+    "component": "/home/arichan/a/pages/icons.vue",
+    "chunkName": "pages/icons",
+    "_name": "_48dce95d"
+  },
+  {
+    "name": "notifications___en",
+    "path": "/notifications",
+    "component": "/home/arichan/a/pages/notifications.vue",
+    "chunkName": "pages/notifications",
+    "_name": "_567c8daa"
+  },
+  {
+    "name": "regular___en",
+    "path": "/regular",
+    "component": "/home/arichan/a/pages/regular.vue",
+    "chunkName": "pages/regular",
+    "_name": "_7965b3c2"
+  },
+  {
+    "name": "rtl___en",
+    "path": "/rtl",
+    "component": "/home/arichan/a/pages/rtl.vue",
+    "chunkName": "pages/rtl",
+    "_name": "_44d2576d"
+  },
+  {
+    "name": "starter-page___en",
+    "path": "/starter-page",
+    "component": "/home/arichan/a/pages/starter-page.vue",
+    "chunkName": "pages/starter-page",
+    "_name": "_558cbbcc"
+  },
+  {
+    "name": "typography___en",
+    "path": "/typography",
+    "component": "/home/arichan/a/pages/typography.vue",
+    "chunkName": "pages/typography",
+    "_name": "_5582aa7c"
+  },
+  {
+    "name": "user___en",
+    "path": "/user",
+    "component": "/home/arichan/a/pages/user.vue",
+    "chunkName": "pages/user",
+    "_name": "_4fe17ed8"
+  },
+  {
+    "name": "google___ar",
+    "path": "/ar/google",
+    "component": "/home/arichan/a/pages/google.vue",
+    "chunkName": "pages/google",
+    "_name": "_620b6106"
+  },
+  {
+    "name": "icons___ar",
+    "path": "/ar/icons",
+    "component": "/home/arichan/a/pages/icons.vue",
+    "chunkName": "pages/icons",
+    "_name": "_48dce95d"
+  },
+  {
+    "name": "notifications___ar",
+    "path": "/ar/notifications",
+    "component": "/home/arichan/a/pages/notifications.vue",
+    "chunkName": "pages/notifications",
+    "_name": "_567c8daa"
+  },
+  {
+    "name": "regular___ar",
+    "path": "/ar/regular",
+    "component": "/home/arichan/a/pages/regular.vue",
+    "chunkName": "pages/regular",
+    "_name": "_7965b3c2"
+  },
+  {
+    "name": "rtl___ar",
+    "path": "/ar/rtl",
+    "component": "/home/arichan/a/pages/rtl.vue",
+    "chunkName": "pages/rtl",
+    "_name": "_44d2576d"
+  },
+  {
+    "name": "starter-page___ar",
+    "path": "/ar/starter-page",
+    "component": "/home/arichan/a/pages/starter-page.vue",
+    "chunkName": "pages/starter-page",
+    "_name": "_558cbbcc"
+  },
+  {
+    "name": "typography___ar",
+    "path": "/ar/typography",
+    "component": "/home/arichan/a/pages/typography.vue",
+    "chunkName": "pages/typography",
+    "_name": "_5582aa7c"
+  },
+  {
+    "name": "user___ar",
+    "path": "/ar/user",
+    "component": "/home/arichan/a/pages/user.vue",
+    "chunkName": "pages/user",
+    "_name": "_4fe17ed8"
+  },
+  {
+    "name": "GeneralViews-NotFoundPage___en",
+    "path": "/GeneralViews/NotFoundPage",
+    "component": "/home/arichan/a/pages/GeneralViews/NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage",
+    "_name": "_9c4e462c"
+  },
+  {
+    "name": "GeneralViews-NotFoundPage___ar",
+    "path": "/ar/GeneralViews/NotFoundPage",
+    "component": "/home/arichan/a/pages/GeneralViews/NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage",
+    "_name": "_9c4e462c"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/home/arichan/a/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6a902315"
+  }
+]
